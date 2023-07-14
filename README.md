@@ -1,6 +1,6 @@
 # S3-Compatible Cloud Storage Providers and Pricing
 
-Here is a list of 20 popular S3-compatible cloud storage providers along with their pricing information (as of September 2021). Please note that pricing may have changed since then, so it's advisable to visit the providers' official websites for the most accurate and up-to-date pricing details.
+Here is a list of 15 popular S3-compatible cloud storage providers along with their pricing information (as of September 2021). Please note that pricing may have changed since then, so it's advisable to visit the providers' official websites for the most accurate and up-to-date pricing details.
 
 1. [Amazon S3 (AWS)](./aws)
    - Storage: $0.023 - $0.0275 per GB per month
@@ -77,25 +77,5 @@ Here is a list of 20 popular S3-compatible cloud storage providers along with th
     - Storage: $0.0059 per GB per month
     - Data Transfer: $0.04 per GB
     - Free Trial: 30 days with 1TB of free storage.
-
-16. [pCloud](https://www.pcloud.com/cloud-storage)
-    - Pricing varies based on storage plans and options.
-    - Free Trial: 10GB of free storage space.
-
-17. [Tresorit](https://tresorit.com/business/cloud-storage)
-    - Pricing varies based on storage plans and options.
-    - Free Trial: 14 days with limited storage and features.
-
-18. [Koofr](https://koofr.eu)
-    - Pricing varies based on storage plans and options.
-    - Free Trial: 10GB of free storage space.
-
-19. [Sync.com](https://www.sync.com)
-    - Pricing varies based on storage plans and options.
-    - Free Trial: 5GB of free storage space.
-
-20. [Mega](https://mega.nz)
-    - Pricing varies based on storage plans and options.
-    - Free Trial: 20GB of free storage space.
 
 Please note that the additional storage types, such as Glacier, One Zone-IA, etc., have different pricing structures and retrieval costs. It's advisable to visit the respective provider's website for detailed information on these additional storage types and their pricing.
