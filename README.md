@@ -28,10 +28,10 @@ Here is a list of 15 popular S3-compatible cloud storage providers along with th
    - Data Transfer: $0.01 - $0.02 per GB
    - Free Trial: 10GB of free storage and 1GB/day free downloads.
 
-6. [Wasabi](https://wasabi.com)
-   - Storage: $0.0059 per GB per month
-   - Data Transfer: $0.04 per GB
-   - Free Trial: 30 days with 1TB of free storage.
+6. [Contabo](https://contabo.com/en/object-storage)
+   - Storage: $2.99 / 250 GB per month
+   - Data Transfer: idk :/
+   - Free Trial: No specific free trial mentioned on the website.
 
 7. [DigitalOcean Spaces](https://www.digitalocean.com/products/spaces)
    - Storage: $0.02 per GB per month
