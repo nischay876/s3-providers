@@ -2,7 +2,7 @@
 
 Here is a list of 20 popular S3-compatible cloud storage providers along with their pricing information (as of September 2021). Please note that pricing may have changed since then, so it's advisable to visit the providers' official websites for the most accurate and up-to-date pricing details.
 
-1. [Amazon S3 (AWS)](https://aws.amazon.com/s3)
+1. [Amazon S3 (AWS)](./aws)
    - Storage: $0.023 - $0.0275 per GB per month
    - Data Transfer: $0.09 - $0.23 per GB
    - Additional Storage Types: Glacier, Glacier Deep Archive, One Zone-IA, Intelligent-Tiering, etc.
